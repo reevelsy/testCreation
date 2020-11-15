@@ -1,2 +1,2 @@
 Test sample text - update
-New Line v2
+New Line v2 -- changed
